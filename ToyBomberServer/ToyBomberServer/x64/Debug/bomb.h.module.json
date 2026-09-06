@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Bomb.h.obj",
+            "outputs": [
+                "C:\\Users\\eksgh\\source\\repos\\ToyBomberServer\\ToyBomberServer\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\eksgh\\source\\repos\\ToyBomberServer\\ToyBomberServer\\x64\\Debug\\Bomb.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Bomb.h",
+                    "source-path": "c:\\users\\eksgh\\source\\repos\\toybomberserver\\toybomberserver\\bomb.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

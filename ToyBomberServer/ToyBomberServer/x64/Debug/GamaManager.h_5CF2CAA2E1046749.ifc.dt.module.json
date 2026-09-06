@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\GamaManager.obj",
+            "outputs": [
+                "x64\\Debug\\GamaManager.h_5CF2CAA2E1046749.ifc.dt.module.json",
+                "x64\\Debug\\GamaManager.h_5CF2CAA2E1046749.ifc.dt.d.json",
+                "x64\\Debug\\GamaManager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\eksgh\\source\\repos\\ToyBomberServer\\ToyBomberServer\\GamaManager.h",
+                    "source-path": "c:\\users\\eksgh\\source\\repos\\toybomberserver\\toybomberserver\\gamamanager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+*.csproj
+*.sln
+*.unityproj
+
+# Visual Studio / C++ 서버
+Server/x64/
+Server/Debug/
+Server/Release/
+Server/.vs/
+Server/*.vscxproj.user
+Server/*.suo
+*.obj
+*.exe
+*.pdb
+*.ilk

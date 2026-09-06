@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ToyBomberServer/ToyBomberServer.vcxproj" Id="61a9619d-d98a-4f7a-b6ee-ba23019c9411" />
+</Solution>

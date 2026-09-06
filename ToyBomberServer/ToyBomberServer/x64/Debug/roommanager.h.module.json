@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\RoomManager.h.obj",
+            "outputs": [
+                "C:\\Users\\eksgh\\source\\repos\\ToyBomberServer\\ToyBomberServer\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\eksgh\\source\\repos\\ToyBomberServer\\ToyBomberServer\\x64\\Debug\\RoomManager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "RoomManager.h",
+                    "source-path": "c:\\users\\eksgh\\source\\repos\\toybomberserver\\toybomberserver\\roommanager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
